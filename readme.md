@@ -18,7 +18,7 @@ Create an "inventory.js" module to handle each of the user verbs which will be h
 - search: POST, receives a string that we'll check against existing objects in the inventory & returns an array of matches (hint: research the  STRING.includes JS method)
 
 
-[images/serverSideCalculator.gif](images/images/serverSideCalculator.gif)
+![images/serverSideCalculator.gif](images/images/serverSideCalculator.gif)
 
 Stretch Goals:
 ==
