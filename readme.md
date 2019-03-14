@@ -9,9 +9,7 @@ Base Mode:
 
 The project will allow users to view items in the inventory, add items to the inventory, and search for items by name. Inventory items will be objects that are held in a server side array.
 
-Create an "index.js" module that exports a router for the index.html GET
-
-Create an "inventory.js" module to handle each of the user verbs which will be hit via AJAX as follows:
+In your `server.js` handle each of the user verbs which will be hit via AJAX as follows:
 
 - view: GET, returns the full array of inventory
 - add: POST, receives a new object, adds it to the existing inventory
