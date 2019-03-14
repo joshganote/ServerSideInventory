@@ -2,7 +2,7 @@ Server Side Inventory
 ==
 Tech: JQuery, Node, Express, AJAX
 ---
-In this project we'll create a project that tracks an inventory on the server. Also, we'll use Express routing through custom modules.
+In this project we'll create a project that tracks an inventory on the server. 
 
 Base Mode:
 ==
@@ -27,4 +27,4 @@ Add the following features:
 - clear appropriate search input(s) on search completion
 - add search functionality for description
 - display "no matches" if empty array is returned for a search
-- "remove" button for each item that makes use of a DELETE route on inventory controller
+- "remove" button for each item that makes use of a DELETE route 
